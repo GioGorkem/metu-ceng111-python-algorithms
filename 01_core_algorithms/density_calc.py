@@ -1,0 +1,5 @@
+obj_1 = input()
+obj_2 = input()
+p_1 = obj_1.count("i") / len(obj_1)
+p_2 = obj_2.count("i") / len(obj_2)
+print(p_1 / p_2)

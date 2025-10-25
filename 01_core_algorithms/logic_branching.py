@@ -1,0 +1,5 @@
+inp1 = input()
+inp2 = input()
+value_1 = inp1.count("A")*10 + inp1.count("B")
+value_2 = inp2.count("A")*10 + inp2.count("B")
+print(value_1 * value_2)
